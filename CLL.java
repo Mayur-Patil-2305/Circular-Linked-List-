@@ -1,6 +1,3 @@
-package mayurRpatil;
-
-
 class node{         //create node
     private node link;
     private int data;
